@@ -29,3 +29,10 @@ http://localhost:3000/api/seed
 ```
 
 # Production notes:
+
+
+5. archivos a editar 
+.env
+
+6. comando para generar el dist
+$ npm run start:dev
